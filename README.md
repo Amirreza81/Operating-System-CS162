@@ -1,5 +1,5 @@
 # Operating-System - CS162-Homework 🖥️🐧
-**Operating System - Practical Solutions - Fall 2023 - Sharif University of Technology**
+**Operating System - Practical Solutions - Fall 2023 - Sharif University of Technology (CE-424)**
 
 This was a course homework taught at Sharif University OS class in fall 2023, based on *Berkley's CS162*.
 
